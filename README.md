@@ -9,3 +9,4 @@ video:
 - [1677 Biodiesel Rocket Stove](https://youtu.be/X-RI4D1x3dw)
 - [1744 The Rocket Stove Kit - All The Details You Need #rocketstove](https://youtu.be/24EWuaaANA8)
 - [1741 How To Change A Rocket Stove For Indoor Use #rocketstove](https://youtu.be/hx9kCk_-XgI)
+- [1703 Mini Gasifier Or Mini Rocket Stove With Mantle](https://youtu.be/j1MTlspYwxs)
